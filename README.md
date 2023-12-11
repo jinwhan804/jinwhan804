@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&text=Stack)
+  ## Skill Stacks
 </div>
 
 <div align="center">
